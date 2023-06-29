@@ -280,3 +280,7 @@ a:hover {
 .panel-ops p:hover {
     color: grey;
 }
+
+.box p:hover {
+    color: #25b9d3;
+}
