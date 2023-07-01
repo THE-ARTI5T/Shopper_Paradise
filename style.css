@@ -19,7 +19,7 @@
 }
 
 .logo {
-    background-image: url("logo.png");
+    background-image: url("logo-1.jpg");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -98,7 +98,15 @@ span {
 
 .nav-sec {
     font-size: 0.85rem;
-    font-weight: 700;
+    font-weight: 700.;
+}
+
+.profile-icon {
+    margin-left: 11px;
+}
+
+.profile {
+    font-size: 0.85rem;
 }
 
 /* box5 */
@@ -114,7 +122,8 @@ span {
 /* Panel */
 .panel {
     height: 40px;
-    background-color: #222f3d;
+    background-color: #e40046;
+    /* background-color: #222f3d; */
     display: flex;
     color: white;
     justify-content: space-evenly;
@@ -244,7 +253,7 @@ ul {
 }
 
 .logo {
-    background-image: url("logo.png");
+    background-image: url("logo-1.jpg");
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -278,7 +287,8 @@ a:hover {
 }
 
 .panel-ops p:hover {
-    color: grey;
+    color: #ff81a6;
+    /* color: grey; */
 }
 
 .box p:hover {
